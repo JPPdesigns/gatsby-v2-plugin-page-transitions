@@ -1,6 +1,8 @@
 */.cache/
 */public/
 
+.idea
+
 # Logs
 logs
 *.log
